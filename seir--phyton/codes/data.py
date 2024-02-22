@@ -2,7 +2,7 @@
 """
 Created on Mon Oct  5 21:55:11 2020
 @author: Phurichai Rungcharoenkitkul
-
+github.com/phurichai/covid19macro
 -- Modified --
 on: Apr 2021
 by: Ricardo Aguirre Leal
