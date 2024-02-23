@@ -8,7 +8,7 @@ As decisões governamentais pelo isolamento físico tinham que escolher entre te
   - alta quantidade de desemprego.
 - baixo nível de isolamento com:
   - alta quantidade de mortes; e
-  - baixa quantidade de desemprego
+  - baixa quantidade de desemprego.
 
 A partir de um modelo epidemiológico Susceptible-Exposed-Infectious-Recovered (SEIR), em python, estimou-se a taxa de mortalidade para os diferentes níveis de isolamento, para todos os estados brasileiros, suas grandes regiões, e para o país.
 Com um modelo de Vetores Auto Regressivos (VAR), em R, buscou-se estimar a relação entre a taxa de isolamento e a taxa de desemprego, para as mesmas localidades.
